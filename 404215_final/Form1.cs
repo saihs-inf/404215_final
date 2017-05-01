@@ -22,5 +22,10 @@ namespace _404215_final
             MessageBox.Show ("c0 ");
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("000");
+        }
     }
 }
