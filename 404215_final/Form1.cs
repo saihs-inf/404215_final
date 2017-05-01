@@ -27,5 +27,11 @@ namespace _404215_final
         {
             MessageBox.Show("000");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = textBox1.Text;
+
+        }
     }
 }
